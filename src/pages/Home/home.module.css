@@ -126,3 +126,13 @@ table td {
     border-radius: 0;
   }
 }
+
+/* Botão carregar mais */
+.buttonMore{
+  background-color: #3099FF;
+  padding: 8px 24px;
+  color: #fff;
+  margin: 14px 0px;
+  border-radius: 8px;
+  font-weight: bold;
+}
